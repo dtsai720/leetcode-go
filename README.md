@@ -27,3 +27,4 @@ Practice leetcode with Go
 | Coin Change II | [Link](https://leetcode.com/problems/coin-change-ii) | [Link](./src/coin_change_ii.go) |
 | Subarray Sums Divisible By K | [Link](https://leetcode.com/problems/subarray-sums-divisible-by-k) | [Link](./src/subarray_sums_divisible_by_k.go) |
 | Maximum Compatibility Score Sum | [Link](https://leetcode.com/problems/maximum-compatibility-score-sum) | [Link](./src/maximum_compatibility_score_sum.go) |
+| Most Profit Assigning Work | [Link](https://leetcode.com/problems/most-profit-assigning-work) | [Link](./src/most_profit_assigning_work.go) |
