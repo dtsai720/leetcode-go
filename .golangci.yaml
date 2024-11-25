@@ -18,4 +18,5 @@ linters:
     - wsl
     - revive
     - lll
+    - exportloopref
   enable-all: true
